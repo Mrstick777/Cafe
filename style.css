@@ -1,0 +1,15 @@
+header img {
+    width: 80px;
+}
+main img {
+     width: 60px;
+}
+main{
+    background-color: yellow;
+    font-family:Cursive;
+    text-align: center;
+}
+main td,h1{
+    background-color: red;
+    color: white;
+}
